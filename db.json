@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "community": [
+      {
+          "imageUrl": "https://acortar.link/bQmkay",
+          "id": 1,
+          "description": "Explore advanced hydroponics techniques, including NFT, DWC, and aeroponics, in this comprehensive course designed for experienced growers.",
+          "title": "Advanced Hydroponics Course",
+          "autor": "Certified Hydroponics Instructor"
+      },
+      {
+          "imageUrl": "https://acortar.link/bQmkay",
+          "id": 2,
+          "description": "Dive into the world of vertical farming with this detailed course covering everything from basic concepts to advanced systems like hydroponics and aeroponics tailored for urban environments.",
+          "title": "Vertical Farming Masterclass",
+          "autor": "Expert Urban Agriculturist"
+      },
+      {
+          "imageUrl": "https://acortar.link/0e3Gmw",
+          "id": 3,
+          "description": "Learn the principles of organic farming and sustainable agriculture practices in this comprehensive course. Gain hands-on experience in composting, natural pest management, and crop rotation.",
+          "title": "Organic Farming Techniques",
+          "autor": "Certified Organic Farmer"
+      },
+      {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOyCpuwC29zW3KyK-0KSdKEa4_zso6pIWxg&s",
+          "id": 4,
+          "description": "Explora las técnicas clave en entrenamiento y cuidado de caballos de carreras con expertos de la industria, en un entorno práctico y teórico.",
+          "title": "Curso Avanzado de Hipodromía",
+          "autor": "Escuela Nacional de Hipodromía"
+      },
+      {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYW-pFbdju_Ez2qsZIGsE0GrJWhJdziwsv3w&s",
+          "id": 5,
+          "description": "Aprende sobre el cuidado óptimo y manejo de caballos de carreras para maximizar su rendimiento y bienestar.",
+          "title": "Curso de Manejo y Cuidado en Hipodromía",
+          "autor": "Instituto Ecuestre Avanzado"
+      },
+      {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN0EtXV3KspIQsAvOCJjQvZtvDpsLXonYPag&s",
+          "id": 6,
+          "description": "Perfecciona tus estrategias de carrera y apuestas con técnicas avanzadas y análisis de expertos.",
+          "title": "Esta es una publiacion de prueba",
+          "autor": "Centro de formacionen Hipodromia"
+      }
+  ]
+}
